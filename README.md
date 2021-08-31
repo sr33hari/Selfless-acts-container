@@ -37,3 +37,4 @@ must be stopped and restarted. It is the job of the orchestrator to periodically
 for the healthiness of all running containers. On finding an unhealthy container, it
 must eliminate that container and set up a new container in its place.
 
+![Orchestrator](/orches.png)
